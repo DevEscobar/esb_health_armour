@@ -1,4 +1,4 @@
-# dx_healthnarmour - Store health and armour into your database
+# dx_healthnarmour - Uložení životu a Armouru do vaší databáze
 
 ## Požadavky
 
