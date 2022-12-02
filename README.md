@@ -5,7 +5,7 @@
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
 - [es_extended](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/es_extended) (Legacy)
 
-## Stáhnout & Nainstalovat
+## Instalace
 
 ### Instalace
 
