@@ -9,7 +9,7 @@
 
 ### Instalace
 
-- Přidejte prostředek do souboru `server.cfg`, abyste se ujistili, že se spouští při spuštění serveru:
+- Přidejte esb_health_armour do souboru `server.cfg`, abyste se ujistili, že se spouští při spuštění serveru:
 
 ###
 ensure esb_health_armour
@@ -17,7 +17,7 @@ ensure esb_health_armour
 
 ### License
 
-esb_health_armour - Uložení životu a Armouru do vaší databáze
+esb_health_armour - Uložení životu a Armouru do databáze
 
 Copyright (C) 2021 0xDEMXN
 
