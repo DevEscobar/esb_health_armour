@@ -3,7 +3,7 @@ game 'gta5'
 
 author '$ᴇꜱᴄᴏʙᴀʀ#4685'
 description 'Ukládání životů a armouru do databáze'
-version '1.0.0'
+version '1.2.0'
 
 shared_script '@es_extended/imports.lua'
 
